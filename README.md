@@ -7,7 +7,7 @@
 
   *Hello firstname lastname! You just delved into python.*
 
-  **Function Description**
+  **Function Description**\
   Complete the print_full_name function in the editor below.
 
   print_full_name has the following parameters:
