@@ -22,7 +22,7 @@
    The length of the first and last names are each ≤ 10 .
 
   *Sample Input 0*\
-  Ross
+  Ross \
   Taylor \
   *Sample Output 0*\
   Hello Ross Taylor! You just delved into python. \
