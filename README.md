@@ -23,8 +23,10 @@
 
   *Sample Input 0*\
   Ross \
-  Taylor \
+  Taylor 
+  
   *Sample Output 0*\
-  Hello Ross Taylor! You just delved into python. \
+  Hello Ross Taylor! You just delved into python. 
+  
   *Explanation 0*\
   The input read by the program is stored as a string data type. A string is a collection of characters.
